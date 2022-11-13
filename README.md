@@ -1,9 +1,6 @@
 ![Space Pirates](SpacePirates.jpg)
 
-# Space Pirates
-
-This is the repository for the Space Pirates game demo for Babylon.js 5.0 Release.
-It contains assets and code so you can clone, learn and do modifications.
+# Space Pirates alpha v1
 
 # Playtest the demo
 
